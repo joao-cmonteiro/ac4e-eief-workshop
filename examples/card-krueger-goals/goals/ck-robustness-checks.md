@@ -9,7 +9,7 @@ Ask for the agent's to-do list only. Edit the list, then let it do step 1.
 
 Keep the main estimate (toy DiD 3.0) and add two versions:
 
-1. **Trim:** drop rows above the 98th percentile of FTE employment (pooled over
+1. **Trim:** drop rows above the 90th percentile of FTE employment (pooled over
    states and waves), then recompute.
 2. **Completers:** after the trim, keep only stores with positive employment in
    both waves.
